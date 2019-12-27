@@ -231,7 +231,7 @@ You can also define application-level policy at the centralized place.
 
 ```javascript
 const userDB = {
-  "info@ankuranand.com": {
+  "info@harneet.com": {
     password: "test",
     userId: encodedId(), // incase you dont want to share the user-email.
     appPolicy: {
